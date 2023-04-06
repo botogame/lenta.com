@@ -15,3 +15,5 @@ PHP класс рабочего парсера товаров с lenta.com с о
 
 Кворк: https://kwork.ru/script-programming/26340911/parser-lenta-com-na-php
 Телеграм: https://t.me/botogame
+
+Цена: 5000 rub
