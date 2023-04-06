@@ -12,3 +12,6 @@ PHP класс рабочего парсера товаров с lenta.com с о
 - парсер доп. данных товара
 
 Чтобы проверить текущую работоспособность парсера пройдите по ссылке: https://botogame.space/test_zone/parser_lenta/
+
+Кворк: https://kwork.ru/script-programming/26340911/parser-lenta-com-na-php
+Телеграм: https://t.me/botogame
